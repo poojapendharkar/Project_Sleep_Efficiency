@@ -3,7 +3,6 @@
 """
 Created on Sun Mar 26 21:57:23 2023
 
-@author: lauraseeger
 """
 
 import pandas as pd 
